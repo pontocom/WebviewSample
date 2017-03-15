@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 	public void clickLoadRemoteContent(View v)
 	{
 		wv.setWebViewClient(new WebViewClient());
-		wv.loadUrl("http://www.google.com");
+		wv.loadUrl("http://www.iscte-iul.pt");
 	}
 
 }
