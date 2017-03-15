@@ -1,0 +1,4 @@
+#Tue Mar 14 17:46:08 WET 2017
+base.0=/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

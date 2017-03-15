@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11fc1f444659d34d5626abbf021587bab75ade08">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7f6309658b1acbf9ffe4afcf5579b39a6aeacbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cserrao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/cserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/aulasdaam/AndroidStudioSamples/WebviewSample/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-faf69d1e229e82fba9204b8e0ae36042f08e5518.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/cserrao/AndroidStudioProjects/WebviewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5883cfdbf8a3cfad48e51d2fdae385ca8ce7e1cb/classes.dex" />
+    </item>
+
+</items>
